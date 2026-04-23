@@ -18,7 +18,11 @@
   "types": "./dist/main.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pngwn/MDsveX.git"
+    "url": "git+https://github.com/cheungray123/easte-mdsvex.git"
+  },
+  "homepage": "https://github.com/cheungray123/easte-mdsvex#readme",
+  "bugs": {
+    "url": "https://github.com/cheungray123/easte-mdsvex/issues"
   },
   "files": [
     "dist/*",
