@@ -1,5 +1,5 @@
 {
-  "name": "mdsvex",
+  "name": "@cheungray/mdsvex",
   "version": "0.12.8-svelte5",
   "description": "Markdown preprocessor for Svelte (Svelte 5 compatible)",
   "type": "module",
