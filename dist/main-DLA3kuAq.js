@@ -23943,7 +23943,7 @@ function transform_hast({
 					? node.children.filter(c => c.type === 'text').map(c => c.value).join('')
 					: '';
 				if (!text.trim()) {
-					node.properties['aria-label'] = '外部链接';
+					node.properties['aria-label'] = 'External link';
 				}
 			}
 		});
